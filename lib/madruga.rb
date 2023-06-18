@@ -3,7 +3,7 @@
 require_relative "madruga/version"
 
 module Madruga
-  # Service to download ftp files from the server
+  # Main class
   class FormatFile
     attr_accessor :file_path, :beginning_column
 
