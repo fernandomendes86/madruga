@@ -1,16 +1,16 @@
 # Madruga
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/madruga`. To experiment with that code, run `bin/console` for an interactive prompt.
-
 Format file by cutting columns.
 
 ## Installation
 
-install it yourself as:
+Install it yourself as:
 
     $ gem install madruga
 
 ## Usage
+
+Run `bin/console`
 
 `Madruga::FormatFile.select_file(path_file, 1)`
 
